@@ -1,4 +1,4 @@
-# Gazebo-worlds
+# Gazebo-worlds-actors
 This reporsitory contains Gazebo worlds. Most of the models used came with Gazebo when it was installed.
 These worlds have been tested on Gazebo-9
 
